@@ -8,6 +8,7 @@ import "@fontsource/ibm-plex-sans/600.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://rohitgupta.vercel.app"),
   title: "Rohit Gupta | AI/ML Engineer & Backend Developer",
   description:
     "Portfolio of Rohit Gupta, M.Tech AI student at Jain University. Computer vision, LLM integration and FastAPI backends.",
